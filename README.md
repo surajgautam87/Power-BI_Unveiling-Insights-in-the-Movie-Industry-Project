@@ -3,7 +3,8 @@
 Unveiling Insights in the Movie Industry Through Data Analysis
 ![image](https://github.com/surajgautam87/Power-BI_Unveiling-Insights-in-the-Movie-Industry-Project/assets/160303501/82505ac4-ebf5-43a8-916a-5ea4241288f9)
 
-Objective
+Objective:
+
 The objective of this case study is to conduct an in-depth analysis of the dataser of movie industry. Using Power BI to transform these datasets into a cohesive narrative. This involves meticulous data cleaning, sophisticated data modeling, and adept use of DAX for advanced analytical insights. To build an interactive dashboard that vividly presents findings, offering actionable insights into trends, financial viability, and audience preferences within the movie industry.
 
 Data Source:
